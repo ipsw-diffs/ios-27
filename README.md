@@ -12,12 +12,7 @@ release sequence is implied.
 
 | Device | Comparison | Manifest |
 | --- | --- | --- |
-| `iPhone18,1` | [26.5 (23F77) → 27.0 (24A5355q)](diffs/26_5_23F77_vs_27_0_24A5355q/README.md) | [provenance](manifests/26_5_23F77_vs_27_0_24A5355q.json) |
-| `iPhone18,1` | [27.0 (24A5355q) → 27.0 (24A5370h)](diffs/27_0_24A5355q_vs_27_0_24A5370h/README.md) | [provenance](manifests/27_0_24A5355q_vs_27_0_24A5370h.json) |
-| `iPhone18,1` | [27.0 (24A5370h) → 27.0 (24A5380h)](diffs/27_0_24A5370h_vs_27_0_24A5380h/README.md) | [provenance](manifests/27_0_24A5370h_vs_27_0_24A5380h.json) |
-| `iPhone18,1` | [27.0 (24A5380h) → 27.0 (24A5390f)](diffs/27_0_24A5380h_vs_27_0_24A5390f/README.md) | [provenance](manifests/27_0_24A5380h_vs_27_0_24A5390f.json) |
-| `iPhone18,1` | [27.0 (24A5390f) → 27.0 (24A5408d)](diffs/27_0_24A5390f_vs_27_0_24A5408d/README.md) | [provenance](manifests/27_0_24A5390f_vs_27_0_24A5408d.json) |
-| `iPhone18,1` | [27.0 (24A5418b) → 27.0 (24A5424a)](diffs/27_0_24A5418b_vs_27_0_24A5424a/README.md) | [provenance](manifests/27_0_24A5418b_vs_27_0_24A5424a.json) |
+| `iPhone18,1` | [27.0 (24A5424a) → 27.0 (24A5430a)](diffs/27_0_24A5424a_vs_27_0_24A5430a/README.md) | [provenance](manifests/27_0_24A5424a_vs_27_0_24A5430a.json) |
 
 ## Layout and integrity
 
