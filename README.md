@@ -12,7 +12,7 @@ release sequence is implied.
 
 | Device | Comparison | Manifest |
 | --- | --- | --- |
-| `iPhone18,1` | [27.0 (24A5424a) → 27.0 (24A5430a)](diffs/27_0_24A5424a_vs_27_0_24A5430a/README.md) | [provenance](manifests/27_0_24A5424a_vs_27_0_24A5430a.json) |
+| `iPhone18,1` | [27.0 (24A5430a) → 27.0 (24A435)](diffs/27_0_24A5430a_vs_27_0_24A435/README.md) | [provenance](manifests/27_0_24A5430a_vs_27_0_24A435.json) |
 
 ## Layout and integrity
 
