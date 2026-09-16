@@ -1,0 +1,107 @@
+{
+  "catalog_commit": "7c796028220ff850bf08d253b6b9084f6ff60a96",
+  "discovery": {
+    "anchor": {
+      "appledb_path": "osFiles/iOS/24x - 27.x/24A5408d.json",
+      "beta": true,
+      "build": "24A5408d",
+      "rc": false,
+      "released": "2026-08-10T00:00:00Z",
+      "source": {
+        "input": "iPhone18,1_27.0_24A5408d_Restore.ipsw",
+        "sha256": "34a238cebe71791083f7151933ff043a5ed56980e2fecec64febcf9864850e8e",
+        "size": 12704374412,
+        "url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/140-85735/A95D0B29-F571-491F-BCA5-1E07AA7984B8/iPhone18,1_27.0_24A5408d_Restore.ipsw"
+      },
+      "version": "27.0 beta 5"
+    },
+    "appledb": {
+      "commit": "92b313e147db7c7187acb8b1603bf57d224e8af8",
+      "repository": "https://github.com/littlebyteorg/appledb"
+    },
+    "appledb_platform": "iOS",
+    "device": "iPhone18,1",
+    "edges": [
+      {
+        "from": {
+          "appledb_path": "osFiles/iOS/24x - 27.x/24A437.json",
+          "beta": false,
+          "build": "24A437",
+          "rc": false,
+          "released": "2026-09-14T00:00:00Z",
+          "source": {
+            "input": "iPhone18,1_27.0_24A437_Restore.ipsw",
+            "sha256": "ef506a8d5a39a258b6b7494c2982ed918c6dc4a609bf8bf4b43bb8ab4357f090",
+            "size": 12725955300,
+            "url": "https://updates.cdn-apple.com/2026FallFCS/e4bd9396-e611-4d22-b29a-0ed802448015/iPhone18,1_27.0_24A437_Restore.ipsw"
+          },
+          "version": "27.0"
+        },
+        "to": {
+          "appledb_path": "osFiles/iOS/24x - 27.x/24B5084k.json",
+          "beta": true,
+          "build": "24B5084k",
+          "rc": false,
+          "released": "2026-09-16T00:00:00Z",
+          "source": {
+            "input": "iPhone18,1_27.2_24B5084k_Restore.ipsw",
+            "sha256": "82218f3748cf87f3b8b428eb7d02315004af94bd317be609d89a83ff291f12e1",
+            "size": 12895487645,
+            "url": "https://updates.cdn-apple.com/2026FallSeed/7f023525-0a01-4bef-812f-325cbf7f637e/iPhone18,1_27.2_24B5084k_Restore.ipsw"
+          },
+          "version": "27.2 beta"
+        }
+      }
+    ],
+    "latest": {
+      "appledb_path": "osFiles/iOS/24x - 27.x/24B5084k.json",
+      "beta": true,
+      "build": "24B5084k",
+      "rc": false,
+      "released": "2026-09-16T00:00:00Z",
+      "source": {
+        "input": "iPhone18,1_27.2_24B5084k_Restore.ipsw",
+        "sha256": "82218f3748cf87f3b8b428eb7d02315004af94bd317be609d89a83ff291f12e1",
+        "size": 12895487645,
+        "url": "https://updates.cdn-apple.com/2026FallSeed/7f023525-0a01-4bef-812f-325cbf7f637e/iPhone18,1_27.2_24B5084k_Restore.ipsw"
+      },
+      "version": "27.2 beta"
+    },
+    "major_version": 27,
+    "platform": "iOS",
+    "schema_version": 2,
+    "source_inventory": {
+      "observed": 11,
+      "selected": 3
+    },
+    "status": "candidate",
+    "track_id": "ios-27"
+  },
+  "generator": {
+    "name": "ipsw",
+    "version": "Version: 3.1.708, BuildCommit: 84f5d9aef45149840bdd00b7b8e661088c1d6881"
+  },
+  "inputs": [
+    {
+      "role": "previous",
+      "sha256": "ef506a8d5a39a258b6b7494c2982ed918c6dc4a609bf8bf4b43bb8ab4357f090",
+      "size": 12725955300,
+      "url": "https://updates.cdn-apple.com/2026FallFCS/e4bd9396-e611-4d22-b29a-0ed802448015/iPhone18,1_27.0_24A437_Restore.ipsw"
+    },
+    {
+      "role": "next",
+      "sha256": "82218f3748cf87f3b8b428eb7d02315004af94bd317be609d89a83ff291f12e1",
+      "size": 12895487645,
+      "url": "https://updates.cdn-apple.com/2026FallSeed/7f023525-0a01-4bef-812f-325cbf7f637e/iPhone18,1_27.2_24B5084k_Restore.ipsw"
+    }
+  ],
+  "schema_version": 1,
+  "signatures": {
+    "commit": "81178cfe6c8869612ef092f6471fce3e17d95b20",
+    "repository": "https://github.com/blacktop/symbolicator"
+  },
+  "source_commit": "49effaa6a042059f7a8a327a3aec43f6dbf06a44",
+  "source_tag": "payload/27_0_24A437_vs_27_2_24B5084k",
+  "workflow_commit": "3da0ca2101cdbfd7da7fa68be03f1b01b4f2a77e",
+  "workflow_run": "https://github.com/ipsw-diffs/ios-27/actions/runs/35143776209"
+}

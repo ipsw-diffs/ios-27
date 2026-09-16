@@ -1,0 +1,24 @@
+## iboot_blob35.bin
+
+- `TXDS: rmerr queue %d`
+- `TXDS: pout_tx_alloc_stream failed with ret=%d`
+- `TXDS: [%d %d]`
+- `TXDS: error: InductiveTxGetTxStreamEntry error; ret=%d`
+- `TXDS: %s: stream %d already in progress; skip`
+- `TXDS: %s: unexpected data stream size`
+- `InductiveTxDSEvent`
+- `RS: %s: InductiveTxGetRxSoC: remote_soc change: %d -> %d`
+- `TXDS: fw failed to transmit all data in stream=%d`
+- `TXDS: spmi write to 0x%08X: from entry %d bytes %d`
+- `TXDS: %s: [%d %d]`
+- `TXDS: deque tx pkt: stream=%d start=%d end=%d bytes=%d`
+- `RS: kHostTxChimeDecision: dcsn=%d prm=%d`
+- `InductiveTxResetTxStreams`
+- `TXDS: st_pout_tx_start_transfer failed with ret=%d`
+- `InductiveTxSendData`
+- `InductiveSetPowerOutCapability`
+- `%s: failed to send free log buf signal (ret=%d)`
+- `%s: cap=0x%x, tx_freq_mask=0x%x`
+- `RS: kHostTxIdentification; dev_type=0x%x fmly=%d prot=%d qi_ver=0x%x qpp_ver=0x%x`
+- `TXDS: InductiveTxAddToTxStream failed with ret=%d`
+- `TXDS: %s: error: unknown evt = %d`
