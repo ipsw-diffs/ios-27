@@ -1,0 +1,33 @@
+## SoftwareUpdateServices
+
+> `/System/Library/PrivateFrameworks/SoftwareUpdateServices.framework/SoftwareUpdateServices`
+
+```diff
+
+ 1114.40.10.0.0
+-  __TEXT.__text: 0x6adfc
++  __TEXT.__text: 0x6ae20
+   __TEXT.__lazy_helpers: 0xa8
+   __TEXT.__objc_methlist: 0x708c
+   __TEXT.__const: 0x5aa
+   __TEXT.__gcc_except_tab: 0xc34
+-  __TEXT.__cstring: 0x154e1
++  __TEXT.__cstring: 0x154f1
+   __TEXT.__oslogstring: 0x93c
+   __TEXT.__swift5_typeref: 0x205
+   __TEXT.__swift5_capture: 0x124
+
+   __TEXT.__swift_as_entry: 0x58
+   __TEXT.__swift_as_ret: 0x84
+   __TEXT.__swift_as_cont: 0xa0
+-  __TEXT.__unwind_info: 0x1f18
++  __TEXT.__unwind_info: 0x1f20
+   __TEXT.__eh_frame: 0xc18
+   __TEXT.__objc_stubs: 0x0
+   __TEXT.__auth_stubs: 0x0
+Functions:
+~ +[SUUtility autoDownloadTimeInterval] : 180 -> 216
+CStrings:
++ "[Auto download] Customer: Downloading every 5 days"
+- "[Auto download] Beta: Downloading every 1 day"
+```
