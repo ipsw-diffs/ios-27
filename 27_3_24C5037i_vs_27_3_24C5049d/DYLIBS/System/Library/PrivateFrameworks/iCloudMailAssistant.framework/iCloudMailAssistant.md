@@ -1,0 +1,39 @@
+## iCloudMailAssistant
+
+> `/System/Library/PrivateFrameworks/iCloudMailAssistant.framework/iCloudMailAssistant`
+
+```diff
+
+-2027.1.2.0.0
+-  __TEXT.__text: 0x1201d4
++2027.2.1.0.0
++  __TEXT.__text: 0x1205ac
+   __TEXT.__objc_methlist: 0x21c
+   __TEXT.__const: 0x10dd4
+   __TEXT.__cstring: 0x313d
+Functions:
+~ _$s19iCloudMailAssistant22UnifiedRulesAPIRequestC9urlStringSSyF : 2436 -> 2448
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF19iCloudMailAssistant20LiftUIUnwantedSenderV_Tg5 : 288 -> 324
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5 : 264 -> 288
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF6LiftUI12RemoteAction_p_Tg5Tm : 320 -> 356
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF19iCloudMailAssistant11UnifiedRuleV_Tg5 : 288 -> 324
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF6LiftUI14DecodableStateO_Tg5Tm : 480 -> 524
+~ _$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCs5UInt8V_Tt1gq5 : 116 -> 128
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF19iCloudMailAssistant20UnsubscribeAnalyticsV_Tg5 : 284 -> 320
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5 : 268 -> 292
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF19iCloudMailAssistant20LiftUIUnwantedSenderV_Tg5 : 292 -> 328
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_ypt_Tg5 : 324 -> 360
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF6LiftUI12RemoteAction_p_Tg5 : 324 -> 360
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF19iCloudMailAssistant24AutomationRecommendationV_Tg5 : 292 -> 324
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF19iCloudMailAssistant25UnsubscribeRecommendationV_Tg5 : 300 -> 332
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF19iCloudMailAssistant5MATipV_Tg5 : 284 -> 304
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF6LiftUI14DecodableStateO_Tg5Tm : 484 -> 528
+~ _$s19iCloudMailAssistant20LiftUIUnwantedSenderV11asDecodable0D2UI0H5StateOvg : 1868 -> 1936
+~ _$s19iCloudMailAssistant15TapToRadarDraftV10queryItems33_4E9573FB0FB36937E1D0B155C2BD8AA6LLSay10Foundation12URLQueryItemVGvg : 7420 -> 7460
+~ _$s19iCloudMailAssistant15TapToRadarDraftV9ComponentV10queryItemsSay10Foundation12URLQueryItemVGvg : 376 -> 404
+~ _$s19iCloudMailAssistant0B15CleanupSchemaV1O9DataModelC14schemaMetadataSay05SwiftG00E0C08PropertyJ0VGvgZ : 1192 -> 1236
+~ _$s19iCloudMailAssistant01iabC13ProviderSwiftC0D5ModelC6getTip3for6bucketAA5MATipVSgSS_SStFSbAJXEfU_ : 1636 -> 1740
+~ _$s19iCloudMailAssistant01iabC13ProviderSwiftC0D5ModelC13findBlockRuleyAA07UnifiedI0VSgSSF : 768 -> 860
+~ _$s19iCloudMailAssistant01iabC13ProviderSwiftC0D5ModelC7findTipyAA5MATipVSgSSF : 284 -> 384
+~ _$s19iCloudMailAssistant28GetRecommendationsAPIRequestC9urlStringSSyF : 1884 -> 1896
+```

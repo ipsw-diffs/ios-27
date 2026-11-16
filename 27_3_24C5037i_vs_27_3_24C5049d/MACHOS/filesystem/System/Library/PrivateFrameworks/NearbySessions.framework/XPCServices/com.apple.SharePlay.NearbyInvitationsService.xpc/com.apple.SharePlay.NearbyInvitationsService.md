@@ -1,0 +1,62 @@
+## com.apple.SharePlay.NearbyInvitationsService
+
+> `/System/Library/PrivateFrameworks/NearbySessions.framework/XPCServices/com.apple.SharePlay.NearbyInvitationsService.xpc/com.apple.SharePlay.NearbyInvitationsService`
+
+### Sections with Same Size but Changed Content
+
+- `__TEXT.__objc_methlist`
+- `__TEXT.__const`
+- `__TEXT.__swift5_typeref`
+- `__TEXT.__swift5_entry`
+- `__TEXT.__constg_swiftt`
+- `__TEXT.__swift_as_entry`
+- `__TEXT.__swift_as_ret`
+- `__TEXT.__swift_as_cont`
+- `__TEXT.__unwind_info`
+- `__TEXT.__eh_frame`
+- `__DATA_CONST.__const`
+- `__DATA_CONST.__auth_ptr`
+- `__DATA.__objc_const`
+- `__DATA.__objc_selrefs`
+- `__DATA.__objc_data`
+- `__DATA.__data`
+
+```diff
+
+-309.300.31.0.0
+-  __TEXT.__text: 0xcc534
++309.300.41.0.0
++  __TEXT.__text: 0xcc938
+   __TEXT.__auth_stubs: 0x2720
+   __TEXT.__objc_stubs: 0xe80
+   __TEXT.__objc_methlist: 0x9e8
+Functions:
+~ _$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCs5UInt8V_Tt1gq5 : 116 -> 128
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSccy44com_apple_SharePlay_NearbyInvitationsService0S19GroupHostIDSServiceC12MessageEventO_AJ0Y7ContextVtSgs5NeverOG_Tg5 : 260 -> 284
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5 : 268 -> 292
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF44com_apple_SharePlay_NearbyInvitationsService37BluetoothScannerDiscoveryEngineDeviceV_Tg5 : 292 -> 324
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF44com_apple_SharePlay_NearbyInvitationsService16BluetoothScannerC6DeviceV_Tg5 : 300 -> 332
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF44com_apple_SharePlay_NearbyInvitationsService24FilteredBluetoothScannerC0V6DeviceVyAH0S13RangingFilterC_G_Tg5 : 324 -> 360
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF44com_apple_SharePlay_NearbyInvitationsService0S19GroupHostIDSServiceC12MessageEventO6MemberV_Tg5 : 268 -> 292
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0e5ProtoE18SessionMessageTypeO17_protobuf_nameMap_WZ : 696 -> 736
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0E19ProtoSessionMessageV17_protobuf_nameMap_WZ : 512 -> 548
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0E22ProtoConnectionRequestV17_protobuf_nameMap_WZTm : 568 -> 612
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0E16ProtoJoinRequestV17_protobuf_nameMap_WZ : 452 -> 464
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0E16ProtoJoinRequestV7ContentV17_protobuf_nameMap_WZ : 580 -> 604
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0E23ProtoConnectionResponseV7ContentV08ApprovalK0V17_protobuf_nameMap_WZTm : 364 -> 372
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0E17ProtoJoinResponseV7ContentV17_protobuf_nameMap_WZ : 520 -> 548
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0E17ProtoJoinResponseV7ContentV08ApprovalK0V17_protobuf_nameMap_WZ : 516 -> 552
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSnySiG_Tgq5 : 260 -> 284
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0e6Group_H0V17_protobuf_nameMap_WZ : 576 -> 600
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0E12Group_MemberV17_protobuf_nameMap_WZTm : 444 -> 472
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0e6Group_H0V11MemberAddedV17_protobuf_nameMap_WZ : 452 -> 464
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0e6Group_H0V13MemberRemovedV17_protobuf_nameMap_WZ : 452 -> 464
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0e6Group_H0V10MemberLeftV17_protobuf_nameMap_WZ : 452 -> 472
+~ _$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfC14NearbySessions0H13AdvertisementC_Tt1g5Tm : 136 -> 160
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5 : 264 -> 288
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSu_Tg5 : 256 -> 280
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF44com_apple_SharePlay_NearbyInvitationsService37BluetoothScannerDiscoveryEngineDeviceV_Tg5 : 288 -> 320
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF44com_apple_SharePlay_NearbyInvitationsService24FilteredBluetoothScannerC0W6DeviceVyAH0T13RangingFilterC_G_Tg5 : 320 -> 356
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF44com_apple_SharePlay_NearbyInvitationsService0T12Group_MemberV_Tg5 : 476 -> 504
+~ _$s44com_apple_SharePlay_NearbyInvitationsService0E20IDSServiceControllerC21handleIncomingMessage_7account12incomingData15fromIDWithToken7contextyAA0H8Protocol_p_So10IDSAccountCSg10Foundation0O0VSgSSSgSo17IDSMessageContextCSgtFTf4ennnnn_nSo0H0C_Tg5Tf4ddnnnn_n : 10124 -> 10452
+```

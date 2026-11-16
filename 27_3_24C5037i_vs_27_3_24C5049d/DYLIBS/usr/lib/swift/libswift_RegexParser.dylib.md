@@ -1,0 +1,33 @@
+## libswift_RegexParser.dylib
+
+> `/usr/lib/swift/libswift_RegexParser.dylib`
+
+```diff
+
+-6.4.2.1.9
+-  __TEXT.__text: 0x82208
++6.4.4.3.15
++  __TEXT.__text: 0x823dc
+   __TEXT.__swift5_typeref: 0xc08
+   __TEXT.__const: 0x5da8
+   __TEXT.__swift5_capture: 0x258
+Functions:
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser3ASTV4NodeO_Tg5 : 268 -> 292
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser11CaptureListV0Q0V_Tg5 : 292 -> 328
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser10DiagnosticV_Tg5 : 284 -> 320
+~ _$s12_RegexParser0B0V25parseCustomCharacterClassyAA3ASTV0deF0VAA6SourceV7LocatedVy_AH5StartOGF : 2084 -> 2088
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser3ASTV20CustomCharacterClassV6MemberO_Tg5 : 480 -> 508
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser6SourceV8LocationV_Tg5 : 260 -> 284
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser3ASTV6TriviaV_Tg5Tm : 268 -> 292
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser3ASTV4AtomV6ScalarV_Tg5 : 276 -> 312
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser3ASTV14MatchingOptionV_Tg5 : 276 -> 312
+~ _$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCs5UInt8V_Tt1gq5 : 116 -> 128
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5 : 264 -> 288
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser3ASTV20CustomCharacterClassV6MemberO_Tg5 : 476 -> 504
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFs7UnicodeO6ScalarV_Tg5 : 256 -> 280
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser16CaptureStructureO_Tg5 : 264 -> 288
+~ _$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser3ASTV4NodeO_Tg5 : 264 -> 288
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5 : 268 -> 292
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF12_RegexParser3ASTV20GlobalMatchingOptionV_Tg5 : 276 -> 312
+~ _$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSay12_RegexParser3ASTV14MatchingOptionVG_Sbt_Tg5 : 308 -> 332
+```
