@@ -24,7 +24,7 @@ release sequence is implied.
 | `iPhone18,1` | [27.2 (24B5089g) → 27.2 (24B5099f)](diffs/27_2_24B5089g_vs_27_2_24B5099f/README.md) | [provenance](manifests/27_2_24B5089g_vs_27_2_24B5099f.json) |
 | `iPhone18,1` | [27.2 (24B5099f) → 27.2 (24B5110a)](diffs/27_2_24B5099f_vs_27_2_24B5110a/README.md) | [provenance](manifests/27_2_24B5099f_vs_27_2_24B5110a.json) |
 | `iPhone18,1` | [27.2 (24B5110a) → 27.2 (24B115)](diffs/27_2_24B5110a_vs_27_2_24B115/README.md) | [provenance](manifests/27_2_24B5110a_vs_27_2_24B115.json) |
-| `iPhone18,1` | [27.3 (24C5037i) → 27.3 (24C5049d)](diffs/27_3_24C5037i_vs_27_3_24C5049d/README.md) | [provenance](manifests/27_3_24C5037i_vs_27_3_24C5049d.json) |
+| `iPhone18,1` | [27.3 (24C5049d) → 27.3 (24C5049f)](diffs/27_3_24C5049d_vs_27_3_24C5049f/README.md) | [provenance](manifests/27_3_24C5049d_vs_27_3_24C5049f.json) |
 
 ## Layout and integrity
 
